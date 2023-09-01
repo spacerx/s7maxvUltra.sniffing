@@ -1,11 +1,14 @@
+[a](a) [b](b) [c](c) [d](d)
+
 <!-- ############################################################################################ -->
 # app_get_dryer_setting ???
 **Einstellungen->Einstellungen der Dockingstation->???**
 
 **get:**
 
-    Decoded sniffing message: {"dps":{"101":"{\"id\":435082,\"method\":\"app_get_dryer_setting\",\"params\":[]}"},"t":1691340723}
-    dps debug: {"id":435082,"result":{"status":0,"on":{"cliff_on":1,"cliff_off":1,"count":10,"dry_time":10800},"off":{"cliff_on":2,"cliff_off":1,"count":10}}}
+    Decoded sniffing message: {"dps":{"101":"{\"id\":440046,\"method\":\"app_get_dryer_setting\",\"params\":[]}"},"t":1693597417}
+    dps debug: {"id":440046,"result":{"status":0,"on":{"cliff_on":1,"cliff_off":1,"count":10,"dry_time":10800},"off":{"cliff_on":2,"cliff_off":1,"count":10}}}
+
 **set:**
 
     Decoded sniffing message: { ???
@@ -24,13 +27,13 @@
 
 **get:**
 
-    Decoded sniffing message: {"dps":{"101":"{\"id\":59163,\"method\":\"get_dust_collection_mode\",\"params\":[]}"},"t":1691351766}
-    dps debug: {"id":59163,"result":{"mode":0}}
+    Decoded sniffing message: {"dps":{"101":"{\"id\":440044,\"method\":\"get_dust_collection_mode\",\"params\":[]}"},"t":1693597417}
+    dps debug: {"id":440044,"result":{"mode":0}}
 
 **set:**
 
-    Decoded sniffing message: {"dps":{"101":"{\"id\":59178,\"method\":\"set_dust_collection_mode\",\"params\":{\"mode\":1}}"},"t":1691351796}
-    dps debug: {"id":59178,"result":["ok"]}
+    Decoded sniffing message: {"dps":{"101":"{\"id\":440201,\"method\":\"set_dust_collection_mode\",\"params\":{\"mode\":1}}"},"t":1693597697}
+    dps debug: {"id":440201,"result":["ok"]}
 
 **params:**
 <table><thead><tr><th colspan=3 align="left">mode</th>
@@ -48,13 +51,13 @@
 
 **get:**
 
-    Decoded sniffing message: {"dps":{"101":"{\"id\":435081,\"method\":\"get_dust_collection_switch_status\",\"params\":[]}"},"t":1691340723}
-    dps debug: {"id":435081,"result":{"status":1}}
+    Decoded sniffing message: {"dps":{"101":"{\"id\":440189,\"method\":\"get_dust_collection_switch_status\",\"params\":[]}"},"t":1693597677}
+    dps debug: {"id":440189,"result":{"status":1}}
 
 **set:**
 
-    Decoded sniffing message: {"dps":{"101":"{\"id\":59145,\"method\":\"set_dust_collection_switch_status\",\"params\":{\"status\":1}}"},"t":1691351735}
-    dps debug: {"id":59145,"result":["ok"]}
+    Decoded sniffing message: {"dps":{"101":"{\"id\":440167,\"method\":\"set_dust_collection_switch_status\",\"params\":{\"status\":0}}"},"t":1693597637}
+    dps debug: {"id":440167,"result":["ok"]}
 
 **params:**
 <table><thead><tr><th colspan=3 align="left">status</th>
@@ -70,13 +73,13 @@
 
 **get:**
 
-    Decoded sniffing message: {"dps":{"101":"{\"id\":59046,\"method\":\"get_smart_wash_params\",\"params\":{}}"},"t":1691351553}
-    dps debug: {"id":59046,"result":{"smart_wash":0,"wash_interval":1200}}
+    Decoded sniffing message: {"dps":{"101":"{\"id\":440058,\"method\":\"get_smart_wash_params\",\"params\":{}}"},"t":1693597437}
+    dps debug: {"id":440058,"result":{"smart_wash":0,"wash_interval":1200}}
 
 **set:**
 
-    Decoded sniffing message: {"dps":{"101":"{\"id\":59062,\"method\":\"set_smart_wash_params\",\"params\":{\"smart_wash\":1,\"wash_interval\":1200}}"},"t":1691351583}
-    dps debug: {"id":59062,"result":["ok"]}
+    Decoded sniffing message: {"dps":{"101":"{\"id\":440069,\"method\":\"set_smart_wash_params\",\"params\":{\"smart_wash\":1,\"wash_interval\":1200}}"},"t":1693597456}
+    dps debug: {"id":440069,"result":["ok"]}
 
 **params:**
 <table><thead><tr><th colspan=3 align="left">smart_wasch</th>
@@ -97,13 +100,13 @@
 
 **get:**
 
-    Decoded sniffing message: {"dps":{"101":"{\"id\":435098,\"method\":\"get_wash_towel_mode\",\"params\":{}}"},"t":1691340753}
-    dps debug: {"id":435098,"result":{"wash_mode":1}}
+    Decoded sniffing message: {"dps":{"101":"{\"id\":440112,\"method\":\"get_wash_towel_mode\",\"params\":{}}"},"t":1693597537}
+    dps debug: {"id":440112,"result":{"wash_mode":1}}
 
 **set:**
 
-    Decoded sniffing message: {"dps":{"101":"{\"id\":435115,\"method\":\"set_wash_towel_mode\",\"params\":{\"wash_mode\":0}}"},"t":1691340782}
-    dps debug: {"id":435115,"result":["ok"]}
+    Decoded sniffing message: {"dps":{"101":"{\"id\":440124,\"method\":\"set_wash_towel_mode\",\"params\":{\"wash_mode\":0}}"},"t":1693597557}
+    dps debug: {"id":440124,"result":["ok"]}
 
 **params:**
 <table><thead><tr><th colspan=3 align="left">wasch_mode</th>
