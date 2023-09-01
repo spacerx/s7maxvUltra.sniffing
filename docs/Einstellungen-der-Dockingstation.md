@@ -35,7 +35,7 @@
 **App->Einstellungen->Einstellungen der Dockingstation->Moppwäsche-Interval**
 <table><tr>
 <td align="center" width="450px">
-<img src="https://github.com/SpacerX/RoborockApp.Sniffing/blob/main/screenshots/moppwasch-interval.png" width="300px"/>
+<img src="https://github.com/spacerx/s7maxvUltra.sniffing/blob/main/screenshots/moppwasch-interval.png" width="300px"/>
 </td>
 <td valign="top" width="500px">
 
@@ -52,7 +52,7 @@
 **App->Einstellungen->Einstellungen der Dockingstation->Moppwäsche-Modus**
 <table><tr>
 <td align="center" width="450px">
-<img src="https://github.com/SpacerX/RoborockApp.Sniffing/blob/main/screenshots/moppwasch-modus.png" width="300px"/>
+<img src="https://github.com/spacerx/s7maxvUltra.sniffing/blob/main/screenshots/moppwasch-modus.png" width="300px"/>
 </td>
 <td valign="top" width="500px">
 
