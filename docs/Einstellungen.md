@@ -1,5 +1,5 @@
 <table><tr><td align="center" width="450px">
-<img src="https://github.com/SpacerX/RoborockApp.Sniffing/blob/main/screenshots/einstellungen.png" width="350px"/>
+<img src="https://github.com/spacerx/s7maxvUltra.sniffing/blob/main/screenshots/einstellungen.png" width="350px"/>
 </td><td valign="top" width="500px">
 
 * ## Karten verwalten
