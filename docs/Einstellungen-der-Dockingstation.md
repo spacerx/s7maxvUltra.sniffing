@@ -63,12 +63,45 @@
 ## Intensiv
 <br>
 
-### Objekt: [wash_towel_mode]()
+### Objekt: [wash_towel_mode](Objekte#wash_towel_mode)
 </td>
 </tr></table>
 
 # Automatische Entleerung
+**App->Einstellungen->Einstellungen der Dockingstation->Automatische Entleerung**
+<table><tr>
+<td align="center" width="450px">
+    
+</td>
+<td valign="top" width="500px">
+
+## An / Aus
+<br>
+
+### Objekt: [set_dust_collection_switch_status](Objekte#set_dust_collection_switch_status)
+<br>
+</td>
+</tr></table>
 
 # Entleermodus
+**App->Einstellungen->Einstellungen der Dockingstation->Entleermodus**
+<table><tr>
+<td align="center" width="450px">
+<img src="https://github.com/spacerx/s7maxvUltra.sniffing/blob/main/screenshots/entleerungsmodus.png" width="300px"/>
+</td>
+<td valign="top" width="500px">
+
+## Smart
+## Leicht
+## Mittel
+## Max.
+<br>
+
+### Objekt: [set_dust_collection_switch_status](Objekte#set_dust_collection_switch_status)
+</td>
+</tr></table>
 
 # Automatisch trocknen
+**App->Einstellungen->Einstellungen der Dockingstation->Automatisch trocknen**
+
+Das Modul ist nicht vorhanden.
