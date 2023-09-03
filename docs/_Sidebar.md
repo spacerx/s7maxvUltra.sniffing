@@ -1,5 +1,5 @@
 **[Home](Home)**
-<details><summary><b><a href="App Einstellungen">App-Einstellungen</a></b></summary>
+<details><summary><b><a href="Einstellungen">Einstellungen</a></b></summary>
 
 * Karten verwalten  
 * Pläne
