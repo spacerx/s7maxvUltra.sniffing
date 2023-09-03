@@ -78,7 +78,7 @@
 ## An / Aus
 <br>
 
-### Objekt: [set_dust_collection_switch_status](Objekte#set_dust_collection_switch_status)
+### Objekt: [dust_collection_switch_status](Objekte#dust_collection_switch_status)
 <br>
 </td>
 </tr></table>
@@ -97,7 +97,7 @@
 ## Max.
 <br>
 
-### Objekt: [set_dust_collection_switch_status](Objekte#set_dust_collection_switch_status)
+### Objekt: [dust_collection_switch_status](Objekte#dust_collection_switch_status)
 </td>
 </tr></table>
 
