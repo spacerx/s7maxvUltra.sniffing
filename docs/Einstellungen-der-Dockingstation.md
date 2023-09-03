@@ -31,7 +31,7 @@
     Decoded sniffing message: {"dps":{"101":"{\"id\":440046,\"method\":\"app_get_dryer_setting\",\"params\":[]}"},"t":1693597417}
     dps debug: {"id":440046,"result":{"status":0,"on":{"cliff_on":1,"cliff_off":1,"count":10,"dry_time":10800},"off":{"cliff_on":2,"cliff_off":1,"count":10}}}
 
-**[--> Vollständiges Debug-Log zu den "Einstellungen der Dockingstation"](https://github.com/spacerx/s7maxvUltra.sniffing/blob/main/logs/einstellungen-dockingstation.log)**
+**[--> Vollständiges Debug-Log "Einstellungen der Dockingstation"](https://github.com/spacerx/s7maxvUltra.sniffing/blob/main/logs/einstellungen-dockingstation.log)**
 
 # Moppwäsche-Interval
 **App->Einstellungen->Einstellungen der Dockingstation->Moppwäsche-Interval**
