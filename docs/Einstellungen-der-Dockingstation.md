@@ -71,7 +71,7 @@
 **App->Einstellungen->Einstellungen der Dockingstation->Automatische Entleerung**
 <table><tr>
 <td align="center" width="450px">
-    
+<img src="https://github.com/spacerx/s7maxvUltra.sniffing/blob/main/screenshots/automatische-entleerung.png" width="300px"/>    
 </td>
 <td valign="top" width="500px">
 
