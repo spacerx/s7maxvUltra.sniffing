@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v3
         with:
           token: ${{ secrets.RBE_TOKEN }} # allows us to push back to repo
-          ref: main
+          ref: dev
 
       # from main (requiere: Dockerfile, action.yml, entrypoint.sh)
       #- name: Sync wiki to docs 
@@ -27,7 +27,7 @@ jobs:
       - name: Sync wiki to docs
         uses: newrelic/wiki-sync-action@v1.0.1     
         with:
-          branch: main
+          branch: dev
           source: wiki
           destination: docs
           token: ${{ secrets.RBE_TOKEN }}
