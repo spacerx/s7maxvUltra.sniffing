@@ -3,7 +3,7 @@ copystring hat in seinem Repository einen super [ioBroker-Adapter für den Robor
 Aufbauend auf seinen Wiki Beitrag [Sniffing Roborock MQTT traffic](https://github.com/copystring/ioBroker.roborock/wiki/Sniffing-Roborock-MQTT-traffic)
 fasse ich hier meine Erkenntnisse rund um den Roborock S7 MaxV Ultra in einem Wiki zusammen.
 
-[Zum Wiki]() 
+[Zum Wiki Home]() 
 
 ## Was wird benötigt.
 - **Auf dem Windows PC** (nur zum Testen und Sniffen)
@@ -17,5 +17,10 @@ fasse ich hier meine Erkenntnisse rund um den Roborock S7 MaxV Ultra in einem Wi
   - Roborock-App
 
 ## Wie Installiere und konfiguriere ich das ganze
-Ganz so einfach wie im Wiki von copystring beschrieben ist die installation für Nicht-Programmierer dann doch nicht.
-Ich zeige hier meinen Weg, der natürlich nicht der einzige richtige sein muss.
+Ganz so einfach wie im Wiki von copystring beschrieben ist die Installation für Nicht-Python-Programmierer dann doch nicht.
+Ich zeige hier meinen Weg, der natürlich nicht der einzige Richtige sein muss.
+
+Mehr zu den Installationen im Wiki.
+
+## Externe Links
+
