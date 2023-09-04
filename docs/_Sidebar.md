@@ -1,4 +1,13 @@
 **[Home](Home)**
+
+<details><summary><b><a href="Installationen">Installationen</a></b></summary>
+
+* ioBroker
+* ioBroker.roborock - Adapter
+* Python
+* mitmproxy
+</details>
+
 <details><summary><b><a href="Einstellungen">Einstellungen</a></b></summary>
 
 * Karten verwalten  
